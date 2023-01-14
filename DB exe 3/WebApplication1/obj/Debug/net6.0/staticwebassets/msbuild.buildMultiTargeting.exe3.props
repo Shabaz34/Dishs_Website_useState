@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\exe3.props" />
+</Project>
